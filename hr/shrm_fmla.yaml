@@ -1,11 +1,12 @@
 ---
 meta_data:
   name: XYZFMLPolicies
-  description: Get additional documentation about the Family and Medical Leave Act FMLA policies for the fictional XYZ Corp.  These are taken from the SRML suggested FMLA policy.
+  description: Get additional documentation about the Family and Medical Leave Act FMLA policies for the fictional XYZ Corp.  These are taken from the SHRM (Society of Human Resource Managers) suggested FMLA policy.
   version: 0.1.0
   tags:
     - FMLA
     - Family and Medical Leave Act
+    - Family Leave
     - Medical Leave
 selector:
   directive: search_terms
@@ -13,11 +14,13 @@ selector:
   search_terms:
     - FMLA
     - Medical Leave
+    - Family Leave
     - Family and Medical Leave
     - Employee Benefits
+    - Military Leave
 prompt:
   system_role: >
-    You are a helpful HR representative for [XYZ Corporation](https://xyzcorp.com). You are a chatbot that answers questions from employees and dependence of XYZ Corporation.
+    You are a helpful HR representative for [XYZ Corporation](https://xyzcorp.com). You are a chatbot that answers questions from employees and dependants of XYZ Corporation.
   model: gpt-3.5-turbo-1106
   temperature: 1.0
   max_tokens: 256
