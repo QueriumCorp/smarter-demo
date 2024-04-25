@@ -3,7 +3,6 @@ meta_data:
   name: XYZFMLPolicies
   description: Get additional documentation about the Family and Medical Leave Act FMLA policies for the fictional XYZ Corp.  These are taken from the SHRM (Society of Human Resource Managers) suggested FMLA policy.
   version: 0.1.0
-  citation: "https://www.smu.edu/admission/apply/transfer/applicationprocess"
   tags:
     - FMLA
     - Family and Medical Leave Act
@@ -34,6 +33,8 @@ plugin_data:
       - location: Headquarters
       - website: https://xyzcorp.com/hr/
       - email: hr@xyzcorp.com
+    citation: >
+      https://www.smu.edu/admission/apply/transfer/applicationprocess
     Eligibility: >
       To be eligible for leave under this policy, employees must meet all of the following requirements:
       requirements:
