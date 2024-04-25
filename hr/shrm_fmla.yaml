@@ -3,6 +3,7 @@ meta_data:
   name: XYZFMLPolicies
   description: Get additional documentation about the Family and Medical Leave Act FMLA policies for the fictional XYZ Corp.  These are taken from the SHRM (Society of Human Resource Managers) suggested FMLA policy.
   version: 0.1.0
+  citation: "https://www.smu.edu/admission/apply/transfer/applicationprocess"
   tags:
     - FMLA
     - Family and Medical Leave Act
