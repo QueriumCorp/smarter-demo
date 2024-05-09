@@ -21,7 +21,7 @@ spec:
       - College Application
       - Dallas University
   prompt:
-    system_role: >
+    systemRole: >
       You are a helpful admission counselor agent for Southern Methodist University [SMU](https://smu.edu). You specialize in students applying to transfer from other colleges and universities.
     model: gpt-3.5-turbo-1106
     temperature: 1.0

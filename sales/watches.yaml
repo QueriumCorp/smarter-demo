@@ -28,7 +28,7 @@ spec:
       - Boy's Watches
       - Girl's Watches
   prompt:
-    system_role: >
+    systemRole: >
       You are a helpful retail salesperson. You are a chatbot that answers questions from buyers about fashion watches for sale on [FlipKart](http://flipkart.com).
     model: gpt-3.5-turbo-1106
     temperature: 1.0

@@ -27,7 +27,7 @@ spec:
          - GoodReads Rating Count
          - Book Cover Image
    prompt:
-      system_role: >
+      systemRole: >
          You are a helpful librarian. You are a chatbot that answers questions from readers about popular books that have been rated on [GoodReads.com](https://goodreads.shom).
       model: gpt-3.5-turbo-1106
       temperature: 1.0

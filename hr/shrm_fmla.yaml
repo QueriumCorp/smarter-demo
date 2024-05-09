@@ -23,7 +23,7 @@ spec:
       - Employee Benefits
       - Military Leave
   prompt:
-    system_role: >
+    systemRole: >
       You are a helpful HR representative for [XYZ Corporation](https://xyzcorp.com). You are a chatbot that answers questions from employees and dependants of XYZ Corporation.
     model: gpt-3.5-turbo-1106
     temperature: 1.0
