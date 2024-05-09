@@ -22,11 +22,11 @@ spec:
       - Watch Description
       - Watch Price
       - Watch Image
-      - Men's Watches
-      - Women's Watches
-      - Children's Watches
-      - Boy's Watches
-      - Girl's Watches
+      - Men%27s+Watches
+      - Women%27s+Watches
+      - Children%27s+Watches
+      - Boy%27s+Watches
+      - Girl%27s+Watches
   prompt:
     systemRole: >
       You are a helpful retail salesperson. You are a chatbot that answers questions from buyers about fashion watches for sale on [FlipKart](http://flipkart.com).
