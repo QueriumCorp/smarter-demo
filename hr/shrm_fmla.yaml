@@ -13,9 +13,9 @@ metadata:
     - Medical Leave
 spec:
   selector:
-    directive: search_terms
+    directive: searchTerms
     # Complete search terms that will trigger the chatbot to use your customized system prompt.
-    search_terms:
+    searchTerms:
       - FMLA
       - Medical Leave
       - Family Leave
