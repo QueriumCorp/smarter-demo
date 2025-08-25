@@ -2,7 +2,7 @@
 apiVersion: smarter.sh/v1
 kind: Plugin
 metadata:
-  name: GoodreadsPopularBooks4
+  name: goodreads_popular_books4
   pluginClass: static
   description: Part 4 of a list of about 1,300 popular books on GoodReads from a contributed dataset on Kaggle [Popular Books Dataset](https://www.kaggle.com/datasets/tanmay43sharma/goodreads-popular-books-dataset). Information in the dataaset includes ISBN, ISBN13, author name, title, language, count of raters who gave 1,2,3,4, and 5 stars.  Also includes the URL to a book cover image.
   version: 0.1.0

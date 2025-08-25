@@ -2,7 +2,7 @@
 apiVersion: smarter.sh/v1
 kind: Plugin
 metadata:
-  name: FashionWatches
+  name: fashion_watches
   pluginClass: static
   description: List of about 260 fashion watches from [FlipKart](https://www.flipkart.com). Information in the dataaset includes product URL, product name, category, product ID, retail price, image URL, and description.
   version: 0.1.0

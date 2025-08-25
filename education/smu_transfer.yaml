@@ -2,7 +2,7 @@
 apiVersion: smarter.sh/v1
 kind: Plugin
 metadata:
-  name: SMUTransferApplication
+  name: smu_transfer_application
   pluginClass: static
   description: Information for prospective students about applying to SMU in Dallas as a transfer student
   version: 0.1.0
